@@ -1,5 +1,7 @@
 # HelloVue Setup
 A VueJs project setup including (Vue, VueRouter, Vuex, Bootsrap, BootstrapVue, Sass)
+
+A quick start project, just clone it and follow the instructions given bellow :-
 ## Project setup
 ```bash
 npm install 
