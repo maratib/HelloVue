@@ -19,6 +19,7 @@ export default {
   background: teal;
 }
 h3 {
-  color: red;
+  padding: 0.7rem;
+  color: #fff;
 }
 </style>
